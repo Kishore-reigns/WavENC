@@ -1,0 +1,5 @@
+numpy
+matplotlib
+pydub
+pycryptodome
+scipy
